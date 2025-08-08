@@ -1,4 +1,4 @@
-# I just added this message
+# sumanth is myb name
 
 to the README.md. Now I am going to save the file using VS Code, but the work is not done with git! Now I've edited this file on the `first-branch`-branch.
 my name is sumanth
